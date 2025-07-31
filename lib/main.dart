@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'package:myapp/app/modules/social_registration/controllers/social_registration_controller.dart';
 import 'package:myapp/app/utils/routes/app_routes.dart';

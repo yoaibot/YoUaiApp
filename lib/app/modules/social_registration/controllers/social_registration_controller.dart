@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/app/models/question_model.dart';
 import 'package:myapp/app/models/user_data_model.dart';
 
 class SocialRegistrationController with ChangeNotifier {

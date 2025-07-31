@@ -69,7 +69,7 @@ class FinalSuccessPage extends StatelessWidget {
                                 );
                               }).toList(),
                             );
-                          }).toList(),
+                          }),
                         ],
                       ),
                     ),

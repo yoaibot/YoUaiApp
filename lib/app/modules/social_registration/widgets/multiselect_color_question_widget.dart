@@ -18,7 +18,7 @@ class MultiselectColorQuestionWidget extends StatefulWidget {
 
 class _MultiselectColorQuestionWidgetState
     extends State<MultiselectColorQuestionWidget> {
-  List<String> _selectedValues = [];
+  final List<String> _selectedValues = [];
 
   @override
   Widget build(BuildContext context) {
