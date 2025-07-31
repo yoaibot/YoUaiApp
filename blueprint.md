@@ -135,3 +135,7 @@ The following packages will be added to `pubspec.yaml`:
 4.  Implement the welcome screen.
 5.  Proceed with the rest of the registration flow screens.
 6.  Implement the admin dashboard.
+
+## 8. Version Control Best Practices
+
+- The `build/` directory, which contains compiled application output, is automatically generated and should not be tracked by version control systems like Git. This prevents unnecessary large files and conflicts in the repository. It has been added to `.gitignore`.
